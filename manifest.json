@@ -4,7 +4,8 @@
 	"name": "Outfit Helper",
 	"description": "This is a helper mod which patches an outfit entity to the Dubai brick, positioned in the stairway shortcut. Intended for mod authors to be used in conjunction with the modding SDK editor to tweak material values, attacher positions, etc. in-game.",
 	"authors": ["Jojje"],
-	"frameworkVersion": "2.33.5",
-	"version": "0.1.0",
-	"contentFolders": ["editme"]
+	"frameworkVersion": "2.33.23",
+	"version": "1.0.0",
+	"contentFolders": ["editme"],
+	"updateCheck": "https://github.com/JojjeE/outfithelper/releases/latest/download/updates.json"
 }
