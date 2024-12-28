@@ -1,0 +1,13 @@
+Outfit Helper usage:
+
+Open the scenario_gecko.entity.patch.json file in the /editme/chunk0/ folder.
+Use a text editor of choice, or GlacierKit if you really want, but the entity will be buried in a bunch of folders.
+
+Change the template and blueprint to your custom *OUTFIT* path/hash. Note outfit, not charset.
+
+Deploy and start the game. Enable the editor in the SDK if you haven't, go into Dubai and find the outfit entity in the stairway.
+
+You can now manipulate material override values and see their effects in real time in the game.
+If you have GlacierKit open, you can open the outfit entity and you should be able to make changes there also.
+
+This has been tested very little aside from tweaking some values.

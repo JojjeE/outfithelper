@@ -1,0 +1,40 @@
+{
+	"tempHash": "00FF13BC71FBD8DF",
+	"tbluHash": "006DE61CDCE4C98D",
+	"patch": [
+		{
+			"AddEntity": [
+				"cafeaa10aa3a60a0",
+				{
+					"parent": "159926768f6b505e",
+					"name": "Outfit Helper",
+					"factory": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_signaturesuit_gloves_heroa_v0.entitytemplate].pc_entitytemplate",
+					"blueprint": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_signaturesuit_gloves_heroa_v0.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0,
+									"z": -90
+								},
+								"position": {
+									"x": 17.607962,
+									"y": -6.3443065,
+									"z": 30
+								},
+								"scale": { "x": 1, "y": 1, "z": 1 }
+							}
+						},
+						"m_eRoomBehaviour": {
+							"type": "ZSpatialEntity.ERoomBehaviour",
+							"value": "ROOM_DYNAMIC"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
